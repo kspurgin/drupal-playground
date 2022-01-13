@@ -1,0 +1,11 @@
+uuid: 410fdf2c-5dce-46d3-bc7a-fd935e70bd66
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.agents
+id: taxonomy_term.agents
+target_entity_type_id: taxonomy_term
+target_bundle: agents
+default_langcode: site_default
+language_alterable: false

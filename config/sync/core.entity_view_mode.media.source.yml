@@ -1,0 +1,15 @@
+uuid: cb431207-a78d-4df2-bc6e-62240a2a7ce0
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+  enforced:
+    module:
+      - islandora_core_feature
+_core:
+  default_config_hash: dPggGijBYXwTv5scVAfcGwySk1Ysl3Zzj_JK747Z0qk
+id: media.source
+label: Source
+targetEntityType: media
+cache: true
